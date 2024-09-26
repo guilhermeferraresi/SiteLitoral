@@ -1,0 +1,67 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SiteLitoral
+build_property.RootNamespace = SiteLitoral
+build_property.ProjectDir = C:\Users\55119\OneDrive\Atividades ETEC\DS\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\55119\OneDrive\Atividades ETEC\DS\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/55119/OneDrive/Atividades ETEC/DS/SiteLitoral 1/SiteLitoral/SiteLitoral/SiteLitoral/Views/Home/catalina.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjYXRhbGluYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/55119/OneDrive/Atividades ETEC/DS/SiteLitoral 1/SiteLitoral/SiteLitoral/SiteLitoral/Views/Home/costaAzul.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjb3N0YUF6dWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/55119/OneDrive/Atividades ETEC/DS/SiteLitoral 1/SiteLitoral/SiteLitoral/SiteLitoral/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/55119/OneDrive/Atividades ETEC/DS/SiteLitoral 1/SiteLitoral/SiteLitoral/SiteLitoral/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/55119/OneDrive/Atividades ETEC/DS/SiteLitoral 1/SiteLitoral/SiteLitoral/SiteLitoral/Views/Home/restaurantes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxyZXN0YXVyYW50ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/55119/OneDrive/Atividades ETEC/DS/SiteLitoral 1/SiteLitoral/SiteLitoral/SiteLitoral/Views/Home/tourPele.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0b3VyUGVsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/55119/OneDrive/Atividades ETEC/DS/SiteLitoral 1/SiteLitoral/SiteLitoral/SiteLitoral/Views/RoteiroPele/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm90ZWlyb1BlbGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/55119/OneDrive/Atividades ETEC/DS/SiteLitoral 1/SiteLitoral/SiteLitoral/SiteLitoral/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/55119/OneDrive/Atividades ETEC/DS/SiteLitoral 1/SiteLitoral/SiteLitoral/SiteLitoral/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/55119/OneDrive/Atividades ETEC/DS/SiteLitoral 1/SiteLitoral/SiteLitoral/SiteLitoral/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/55119/OneDrive/Atividades ETEC/DS/SiteLitoral 1/SiteLitoral/SiteLitoral/SiteLitoral/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/55119/OneDrive/Atividades ETEC/DS/SiteLitoral 1/SiteLitoral/SiteLitoral/SiteLitoral/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-tocd9mguv0

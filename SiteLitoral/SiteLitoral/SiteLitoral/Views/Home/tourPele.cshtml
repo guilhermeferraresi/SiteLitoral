@@ -1,0 +1,107 @@
+﻿@model SiteLitoral.Models.OQueFazer
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/estilo.css">
+    <title>Site Litoral</title>
+</head>
+<body>
+    <nav class="navi">
+        <p class="Nome">Guia Litoral SP </p>
+        <div class="imagens">
+            <img src="/img/Conta.png" class="Conta">
+            <img src="~/img/Menu.png" class="Menu">
+        </div>
+    </nav>
+    <div id="container" class="containerPele"><br />
+        <div id="endTele">
+            <p id="enerecoInicioPele">@ViewBag.nomeP</p>
+            <div class="divTelefonePele" id="dTelefone">
+                <img src="~/img/Telefone 1.png" id="imgTelefone" />
+                <p id="numeroTelefone">@ViewBag.telefone</p>
+            </div>
+        </div>
+        <div id="fotosPele">
+            <div id="cimPele">
+                <img src="~/img/RoteiroPelé.jpg" id="casapele" />
+                <img src="~/img/RoteiroPelé1.jpg" id="casapele" />
+            </div>
+            <div id="baixoPele">
+                <img src="~/img/PeleMelhor.png" id="stadiuPele" />
+                <img src="~/img/RoteiroPelé3.jpeg" id="stadiuPele" />
+                <img src="~/img/RoteiroPelé5.jpg" id="museu" />
+            </div>
+        </div>
+
+        <div id="conteudo">
+            <div id="esquerda">
+                <p id="infor">Informações</p>
+                <div id="espaco">
+                    <p class="negritos">Programação Prevista:</p>
+                    <ul>
+                        <li class="resto">9:00 – Encontro no hotel Novotel Santos Gonzaga</li>
+                        <li class="resto">9:45 – Chegada ao Memorial das Conquistas</li>
+                        <li class="resto">10:50 – Museu Pelé</li>
+                        <li class="resto">11:50 – Monumento ao Camisa 10</li>
+                        <li class="resto">12:20 – Memorial Necrópole Ecumênica</li>
+                        <li class="resto">13:00 – Padoca Santista</li>
+                        <li class="resto">13:30 – Mural de Eduardo Kobra</li>
+                        <li class="resto">14:30 – Hotel Novotel</li>
+                    </ul>
+                    <p class="textosPele"><span class="negritos">Inclui:</span>transporte, guia de turismo e ingressos para o Museu do Pelé e o Memorial das Conquistas do Santos F.C</p>
+                    <p class="textosPele"><span class="negritos">Não Inclui:</span>Alimentação</p>
+                    <p class="textosPele">
+                        <span class="negritos">Observaações:</span>a realização deste passeio condicionada a um número mínimo de inscritos. No caso de não ocorrer os participantes poderão optar por participar de outro passeio ou terem os valores ressarcidos integralmente.
+                        A programação pode ser alterada devido a questões operacionais.  
+                        As inscrições devem ser realizadas previamente.
+                    </p>
+                </div>
+                
+            </div>
+            <div id="direita">
+                <div id="contEndPele" class="classEndereco">
+                    <p id="infor">Contatos e Endereço</p>
+                    <div id="espaco">
+                        <div id="dTelefone">
+                            <img src="~/img/Telefone 1.png" id="imgTelefone" />
+                            <p id="numeroTelefone">@ViewBag.telefone</p>
+                        </div>
+                        <p class="rest">Site - <a href="https://mymento.com.br/parceiros-do-turismo/o-rei-do-futebol-em-santos-5-horas-2908">https://mymento.com.br/parceiros-do-turismo/o-rei-do-futebol-em-santos-5-horas-2908</a></p>
+                    </div>
+                </div>
+                <div id="roteiro">
+                    <p id="infor">Roteiro</p>
+                    <div id="espaco">
+                        <p class="textoLongo">Partiremos para a Vila Belmiro.,lá encontra-se o Estádio Urbano Caldeira, onde visitaremos o Memorial das Conquistas do Santos F. C.Faremos um tour completo, com visita a sala de troféus, sala de imprensa, vestiários e gramado. Passaremos pelo Centro de Treinamento Rei Pelé e iremos para o Museu Pelé,onde estão expostos artigos que remetem a vida do gênio do futebol e à sua história. Uma passadinha no Monumento ao Camisa 10. Em seguida, iremos ao Memorial Necrópole Ecumêmica. Depois,um tour panorâmico na orla da praia e uma parada na famosa Padoca Santista, onde torcedores e ex-jogadores costumam se encontrar para ver os jogos do Peixe. Em frente, você poderá ver a estátua de Pelé dando um soco no ar.Para finalizar, iremos até o Santos Convention Center para ver o mural do artista Eduardo Kobra que entre cenas santistas mostra o Pelé vestindo a camisa da seleção brasileira e com Santos escrito no seu peito.</p>
+             
+                    </div>
+                        
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer id="footerHotel">
+        <div class="footer-links">
+            <a href="#">Política de privacidade</a>
+            <a href="#">Termos de Uso</a>
+            <a href="#">Ajuda</a>
+        </div>
+        <div class="footer-icons">
+            <a href="#" target="_blank"><img src="~/img/insta.png" alt="Instagram"></a>
+            <a href="#"><img src="~/img/face.png" alt="Facebook"></a>
+            <a href="#"><img src="~/img/x.png" alt="Email"></a>
+        </div>
+        <div class="footer-copyright">
+            &copy; Copyright
+        </div>
+    </footer>
+
+
+</body>
+</html>

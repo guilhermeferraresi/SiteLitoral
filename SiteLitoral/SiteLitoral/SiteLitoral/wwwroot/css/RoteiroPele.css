@@ -1,0 +1,144 @@
+﻿* {
+   margin: 0;
+   padding: 0;
+}
+
+.container {
+    max-width: 1500px;
+    margin: 20px auto;
+    padding: 20px;
+    flex: 1;
+}
+
+.navi {
+    width: 100vw;
+    height: 30%;
+    background-color: #2CCD9D;
+    margin-left: -50vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Nome {
+    font-size: 45px;
+    font-family: sans-serif, Arial, Helvetica;
+    color: black;
+    margin-left: 5%;
+    margin-top: 1%;
+}
+
+.imagens-nav {
+    align-content: space-between;
+}
+
+.Conta {
+    width: 3%;
+    height: 5%;
+    margin-left: 90%;
+}
+
+.Menu {
+    width: 3%;
+    height: 5%;
+    margin-left: 95%;
+}
+
+h1 {
+    margin-top: 20px;
+    font-size: 24px;
+    text-align: center;
+}
+
+
+
+.imagem-principal img {
+    width: 100%;
+    height: auto;
+}
+
+.imagens {
+    width: 50%; /* Cada imagem secundária ocupa 50% da largura */
+    display: inline-block; /* Para que fiquem lado a lado */
+    box-sizing: border-box; /* Garante que a largura total é respeitada */
+    margin-bottom: 10px; /* Espaçamento inferior entre as imagens */
+}
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.section {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    width: calc(33% - 20px);
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    flex-direction:row
+}
+
+    .section h2 {
+        margin-top: 0;
+        font-size: 18px;
+    }
+
+.info-list {
+    list-style: none;
+    padding: 0;
+}
+
+.contato {
+    display: flex;
+    align-items: center;
+}
+
+    .contato i {
+        margin-right: 10px;
+    }
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+
+footer {
+    background-color: #20c997;
+    text-align: center;
+    padding: 10px 0;
+    font-family: Arial, sans-serif;
+    width: 100vw;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.footer-links a {
+    color: black;
+    margin: 0 15px;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.footer-icons {
+    margin: 10px 0;
+}
+
+    .footer-icons a {
+        margin: 0 10px;
+    }
+
+    .footer-icons img {
+        width: 24px;
+        height: 24px;
+    }
+
+.footer-copyright {
+    color: black;
+    font-size: 14px;
+}
+

@@ -1,0 +1,481 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SiteLitoral.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SiteLitoral.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\JavaScript\\Index.js",
+      "PackagePath": "staticwebassets\\JavaScript\\Index.js"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\css\\RoteiroPele.css",
+      "PackagePath": "staticwebassets\\css\\RoteiroPele.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\css\\estilo.css",
+      "PackagePath": "staticwebassets\\css\\estilo.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\Alcide's Restaurante.jpg",
+      "PackagePath": "staticwebassets\\img\\Alcide's Restaurante.jpg"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\AlmadaBar.png",
+      "PackagePath": "staticwebassets\\img\\AlmadaBar.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\AlmadaBarMelhor.png",
+      "PackagePath": "staticwebassets\\img\\AlmadaBarMelhor.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\Ben's Bar &  Comidaria.jpg",
+      "PackagePath": "staticwebassets\\img\\Ben's Bar &  Comidaria.jpg"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\COSTAZUL.jpg",
+      "PackagePath": "staticwebassets\\img\\COSTAZUL.jpg"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\Catalina.jpg",
+      "PackagePath": "staticwebassets\\img\\Catalina.jpg"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\CatalinaCafe.png",
+      "PackagePath": "staticwebassets\\img\\CatalinaCafe.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\CatalinaEntrada.png",
+      "PackagePath": "staticwebassets\\img\\CatalinaEntrada.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\CatalinaPscina.png",
+      "PackagePath": "staticwebassets\\img\\CatalinaPscina.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\CatalinaQuarto.png",
+      "PackagePath": "staticwebassets\\img\\CatalinaQuarto.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\CatalinaVaranda.png",
+      "PackagePath": "staticwebassets\\img\\CatalinaVaranda.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\CityTour.jpg",
+      "PackagePath": "staticwebassets\\img\\CityTour.jpg"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\Conta.png",
+      "PackagePath": "staticwebassets\\img\\Conta.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\CostaOstra.png",
+      "PackagePath": "staticwebassets\\img\\CostaOstra.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\CostaStrogonof.png",
+      "PackagePath": "staticwebassets\\img\\CostaStrogonof.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\CostaTabuaFrios.png",
+      "PackagePath": "staticwebassets\\img\\CostaTabuaFrios.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\DPNY.jpg",
+      "PackagePath": "staticwebassets\\img\\DPNY.jpg"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\Jirêh Bar e Cozinha Prática.jpg",
+      "PackagePath": "staticwebassets\\img\\Jirêh Bar e Cozinha Prática.jpg"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\LesEpices.png",
+      "PackagePath": "staticwebassets\\img\\LesEpices.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\LesEpicesMelhor.png",
+      "PackagePath": "staticwebassets\\img\\LesEpicesMelhor.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\Maui.jpg",
+      "PackagePath": "staticwebassets\\img\\Maui.jpg"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\Menu.png",
+      "PackagePath": "staticwebassets\\img\\Menu.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\MergulhoIlhaBela.png",
+      "PackagePath": "staticwebassets\\img\\MergulhoIlhaBela.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\PaginaInicial.jpg",
+      "PackagePath": "staticwebassets\\img\\PaginaInicial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\PeleMelhor.png",
+      "PackagePath": "staticwebassets\\img\\PeleMelhor.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\Portofino.png",
+      "PackagePath": "staticwebassets\\img\\Portofino.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\PortofinoMelhor.png",
+      "PackagePath": "staticwebassets\\img\\PortofinoMelhor.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\QuintalVila.png",
+      "PackagePath": "staticwebassets\\img\\QuintalVila.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\QuintalVilaMelhor.png",
+      "PackagePath": "staticwebassets\\img\\QuintalVilaMelhor.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\RapelPauba.png",
+      "PackagePath": "staticwebassets\\img\\RapelPauba.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\RestauranteCapitano.png",
+      "PackagePath": "staticwebassets\\img\\RestauranteCapitano.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\RestauranteCapitanoMelhor.png",
+      "PackagePath": "staticwebassets\\img\\RestauranteCapitanoMelhor.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\RoteiroPelé.jpg",
+      "PackagePath": "staticwebassets\\img\\RoteiroPelé.jpg"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\RoteiroPelé1.jpg",
+      "PackagePath": "staticwebassets\\img\\RoteiroPelé1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\RoteiroPelé2.jpeg",
+      "PackagePath": "staticwebassets\\img\\RoteiroPelé2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\RoteiroPelé3.jpeg",
+      "PackagePath": "staticwebassets\\img\\RoteiroPelé3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\RoteiroPelé4.jpg",
+      "PackagePath": "staticwebassets\\img\\RoteiroPelé4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\RoteiroPelé5.jpg",
+      "PackagePath": "staticwebassets\\img\\RoteiroPelé5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\RoteiroPelé6.jpg",
+      "PackagePath": "staticwebassets\\img\\RoteiroPelé6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\Telefone 1.png",
+      "PackagePath": "staticwebassets\\img\\Telefone 1.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\cifrao.png",
+      "PackagePath": "staticwebassets\\img\\cifrao.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\cifraoMelhor.png",
+      "PackagePath": "staticwebassets\\img\\cifraoMelhor.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\email.png",
+      "PackagePath": "staticwebassets\\img\\email.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\face.png",
+      "PackagePath": "staticwebassets\\img\\face.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\facebook.png",
+      "PackagePath": "staticwebassets\\img\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\icone.png",
+      "PackagePath": "staticwebassets\\img\\icone.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\iconeMelhor.png",
+      "PackagePath": "staticwebassets\\img\\iconeMelhor.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\insta.png",
+      "PackagePath": "staticwebassets\\img\\insta.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\instagram.png",
+      "PackagePath": "staticwebassets\\img\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\wyndham.jpg",
+      "PackagePath": "staticwebassets\\img\\wyndham.jpg"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\img\\x.png",
+      "PackagePath": "staticwebassets\\img\\x.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SiteLitoral 1\\SiteLitoral\\SiteLitoral\\SiteLitoral\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SiteLitoral.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SiteLitoral.props",
+      "PackagePath": "build\\SiteLitoral.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SiteLitoral.props",
+      "PackagePath": "buildMultiTargeting\\SiteLitoral.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SiteLitoral.props",
+      "PackagePath": "buildTransitive\\SiteLitoral.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

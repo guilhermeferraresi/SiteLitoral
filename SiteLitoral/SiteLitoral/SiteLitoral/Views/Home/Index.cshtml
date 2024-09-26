@@ -1,0 +1,240 @@
+﻿@model SiteLitoral.Models.Geral
+@{
+    ViewData["Title"] = "Home Page";    
+}
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/estilo.css">
+    <title>Site Litoral</title>
+</head>
+<body>
+    <nav class="navi">
+        <p class="Nome">Guia Litoral SP </p>
+        <div class="imagens">
+            <img src="img/Conta.png" class="Conta">
+            <img src="img/Menu.png" class="Menu">
+        </div>
+    </nav>
+        <div class="banner">
+            <img src="../img/PaginaInicial.jpg" alt="Imagem de fundo" class="banner-image">
+            <p class="titulo">Descubra o melhor do Litoral de São Paulo com o nosso Guia Litoral SP</p>
+            <input type="text" placeholder="Digite o que está procurando" class="pesquisa">
+        </div>
+        <div class="titulo-hoteis">
+            <p>Hotéis</p>
+        </div>
+    <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <div class="hoteis">
+                    <div class="card">
+                        <a asp-action="Catalina" asp-controller="Home">
+                            <img src="~/img/Catalina.jpg" width="1000px" height="1000px" alt="Catalina Hotel - Ubatuba">
+                        </a>
+                        <p class="nome-hotel">@ViewBag.nomeCata   @ViewBag.cidadeCata</p>
+                    </div>
+                    <div class="card">
+                        <img src="~/img/DPNY.jpg" width="1000px" height="1000px" alt="DPNY Beach Hotel & SPA Ilhabela">
+                        <p class="nome-hotel">@ViewBag.nomeD  @ViewBag.cidadeD</p>
+                    </div>
+                    <div class="card">
+                        <img src="~/img/Maui.jpg" width="1000px" height="1000px" alt="Maui Maresias São Sebastião">
+                        <p class="nome-hotel">@ViewBag.nomeM   @ViewBag.cidadeM</p>
+                    </div>
+                    <div class="card">
+                        <img src="~/img/wyndham.jpg" width="1000px" height="1000px" alt="Wyndham Ilhabela Casa di Sirena Ilhabela">
+                        <p class="nome-hotel">@ViewBag.nomeW   @ViewBag.cidadeW</p>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <div class="hoteis">
+                    <div class="card">
+                        <img src="~/img/Catalina.jpg" width="1000px" height="1000px" alt="Catalina Hotel - Ubatuba">
+                        <p class="nome-hotel">@ViewBag.nomeCata</p><br><p class="nome-cidade" id="primeiroCard">@ViewBag.cidadeCata</p>
+                    </div>
+                    <div class="card">
+                        <img src="~/img/DPNY.jpg" width="1000px" height="1000px" alt="DPNY Beach Hotel & SPA Ilhabela">
+                        <p class="nome-hotel">@ViewBag.nomeD</p><br><p class="nome-cidade" id="primeiroCard">@ViewBag.cidadeD</p>
+                    </div>
+                    <div class="card">
+                        <img src="~/img/Maui.jpg" width="1000px" height="1000px" alt="Maui Maresias São Sebastião">
+                        <p class="nome-hotel">@ViewBag.nomeM</p><br><p class="nome-cidade" id="primeiroCard">@ViewBag.cidadeM</p>
+                    </div>
+                    <div class="card">
+                        <img src="~/img/wyndham.jpg" width="1000px" height="1000px" alt="Wyndham Ilhabela Casa di Sirena Ilhabela">
+                        <p class="nome-hotel">@ViewBag.nomeW</p>
+                        <p class="nome-cidade">@ViewBag.cidadeW</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+
+    <div class="titulo-hoteis">
+        <a asp-action="Restaurantes" asp-controller="Home">
+            <p id="tRestaurante">Restaurantes</p>
+        </a>
+        <!--<p id="tRestaurante">Html.ActionLink("Restaurantes", "restaurantes", "Home")</p>-->
+    </div>
+    <div id="carouselRestaurantes" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <div class="hoteis">
+                    <div class="card">
+                        <img src="~/img/Ben's Bar &  Comidaria.jpg" class="d-block w-100" alt="Ben's Bar & Comidaria - Ilhabela">
+                        <p class="nome-hotel">@ViewBag.nomeBen</p>
+                        <p class="nome-cidade">@ViewBag.cidadeBen</p>
+                    </div>
+                    <div class="card">
+                        <img src="~/img/Alcide's Restaurante.jpg" class="d-block w-100" alt="Alcide's Restaurante - Guarujá">
+                        <p class="nome-hotel">@ViewBag.nomeA</p>
+                        <p class="nome-cidade">@ViewBag.cidadeA</p>
+                    </div>
+                    <div class="card">
+                        <a asp-action="CostaAzul" asp-controller="Home">
+                            <img src="~/img/COSTAZUL.jpg" class="d-block w-100" alt="Costazul Seafood - Santos">
+                        </a>
+                        <p class="nome-hotel">@ViewBag.nomeC</p>
+                        <p class="nome-cidade">@ViewBag.cidadeC</p>
+                    </div>
+                    <div class="card">
+                        <img src="~/img/Jirêh Bar e Cozinha Prática.jpg" class="d-block w-100" alt="Jirêh Bar e Cozinha Prática - São Pedro">
+                        <p class="nome-hotel">@ViewBag.nomeJ</p>
+                        <p class="nome-cidade">@ViewBag.cidadeJ</p>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <div class="hoteis">
+                    <div class="card">
+                        <img src="~/img/Ben's Bar &  Comidaria.jpg" class="d-block w-100" alt="Ben's Bar & Comidaria - Ilhabela">
+                        <p class="nome-hotel">@ViewBag.nomeBen</p>
+                        <p class="nome-cidade">@ViewBag.cidadeBen</p>
+                    </div>
+                    <div class="card">
+                        <img src="~/img/Alcide's Restaurante.jpg" class="d-block w-100" alt="Alcide's Restaurante - Guarujá">
+                        <p class="nome-hotel">@ViewBag.nomeA</p>
+                        <p class="nome-cidade">@ViewBag.cidadeA</p>
+                    </div>
+                    <div class="card">
+                        <img src="~/img/COSTAZUL.jpg" class="d-block w-100" alt="Costazul Seafood - Santos">
+                        <p class="nome-hotel">@ViewBag.nomeC</p>
+                        <p class="nome-cidade">@ViewBag.cidadeC</p>
+                    </div>
+                    <div class="card">
+                        <img src="~/img/Jirêh Bar e Cozinha Prática.jpg" class="d-block w-100" alt="Jirêh Bar e Cozinha Prática - São Pedro">
+                        <p class="nome-hotel">@ViewBag.nomeJ</p>
+                        <p class="nome-cidade">@ViewBag.cidadeJ</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselRestaurantes" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselRestaurantes" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+
+
+    <div class="titulo-hoteis">
+        <p>O que Fazer??</p>
+    </div>
+    <div id="carouselOQueFazer" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <div class="hoteis" id="ultimoCard">
+                    <div class="card">
+                        <a asp-action="TourPele" asp-controller="Home">
+                            <img src="~/img/RoteiroPelé.jpg" class="d-block w-100" alt="Tour Privativo do Pelé: o Rei do Futebol - Santos">
+                        </a>
+                        <p class="nome-hotel">@ViewBag.nomeP</p>
+                        <p class="nome-cidade">@ViewBag.cidadeP</p>
+                    </div>
+                    <div class="card">
+                        <img src="~/img/MergulhoIlhaBela.png" class="d-block w-100" alt="Batismo de Mergulho - Ilhabela">
+                        <p class="nome-hotel">@ViewBag.nomeB</p>
+                        <p class="nome-cidade">@ViewBag.cidadeB</p>
+                    </div>
+                    <div class="card">
+                        <img src="~/img/RapelPauba.png" class="d-block w-100" alt="Rapel em Paúba - São Sebastião">
+                        <p class="nome-hotel">@ViewBag.nomeP</p>
+                        <p class="nome-cidade">@ViewBag.cidadeP</p>
+                    </div>
+                    <div class="card">
+                        <img src="~/img/CityTour.jpg" class="d-block w-100" alt="O Melhor de Santos - 6 horas - City Tour Privado">
+                        <p class="nome-hotel">@ViewBag.nomeT</p>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <div class="hoteis" id="ultimoCard">
+                    <div class="card">
+                        <a asp-action="TourPele" asp-controller="Home">
+                            <img src="~/img/RoteiroPelé.jpg" class="d-block w-100" alt="Tour Privativo do Pelé: o Rei do Futebol - Santos">
+                        </a>
+                        <p class="nome-hotel">@ViewBag.nomeP</p>
+                        <p class="nome-cidade">@ViewBag.cidadeP</p>
+                    </div>
+                    <div class="card">
+                        <img src="~/img/MergulhoIlhaBela.png" class="d-block w-100" alt="Batismo de Mergulho - Ilhabela">
+                        <p class="nome-hotel">@ViewBag.nomeB</p>
+                        <p class="nome-cidade">@ViewBag.cidadeB</p>
+                    </div>
+                    <div class="card">
+                        <img src="~/img/RapelPauba.png" class="d-block w-100" alt="Rapel em Paúba - São Sebastião">
+                        <p class="nome-hotel">@ViewBag.nomeP</p>
+                        <p class="nome-cidade">@ViewBag.cidadeP</p>
+                    </div>
+                    <div class="card">
+                        <img src="~/img/CityTour.jpg" class="d-block w-100" alt="O Melhor de Santos - 6 horas - City Tour Privado">
+                        <p class="nome-hotel">@ViewBag.nomeT</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselOQueFazer" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselOQueFazer" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+    <br />
+        <footer>
+            <div class="footer-links">
+                <a href="#">Política de privacidade</a>
+                <a href="#">Termos de Uso</a>
+                <a href="#">Ajuda</a>
+            </div>
+            <div class="footer-icons">
+                <a href="#"><img src="~/img/instagram.png" alt="Instagram"></a>
+                <a href="#"><img src="~/img/facebook.png" alt="Facebook"></a>
+                <a href="#"><img src="~/img/email.png" alt="Email"></a>
+            </div>
+            <div class="footer-copyright">
+                &copy; Copyright
+            </div>
+        </footer>
+
+
+</body>
+</html>

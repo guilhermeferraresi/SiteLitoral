@@ -1,0 +1,141 @@
+﻿@model SiteLitoral.Models.Hotel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/estilo.css">
+    <title>Site Litoral</title>
+</head>
+<body>
+    <nav class="navi">
+        <p class="Nome">Guia Litoral SP </p>
+        <div class="imagens">
+            <img src="/img/Conta.png" class="Conta">
+            <img src="~/img/Menu.png" class="Menu">
+        </div>
+    </nav>
+    <div id="container">
+        <p id="tituloHotel">@ViewBag.nomeCata</p>
+        <div id="endTele">
+            <p id="enerecoInicio">@ViewBag.endereco</p>
+            <div id="dTelefone">
+                <img src="~/img/Telefone 1.png" id="imgTelefone" />
+                <p id="numeroTelefone">@ViewBag.telefone</p>
+            </div>
+        </div>
+        <div id="fotosHotel">
+            <div id="ftEsquerda">
+                <img src="~/img/CatalinaVaranda.png" id="imgVaranda" />
+                <div id="imgBaixo">
+                    <img src="~/img/CatalinaPscina.png" id="imgPscina" />
+                    <img src="~/img/CatalinaQuarto.png" id="imgQuarto" />
+                </div>
+            </div>
+            <div id="ftDireita">
+                <img src="~/img/CatalinaEntrada.png" id="imgEntrada" />
+                <img src="~/img/CatalinaCafe.png" id="imgCafe" />
+            </div>
+        </div>
+
+        <div id="conteudo">
+            <div id="esquerda">
+                <p id="infor">Informações</p>
+                <ul id="ulInfo">
+                    <li id="liInicial">serviços no hotel</li>
+                    <li class="li">Estacionamento gratuito</li>
+                    <li class="li">Internet sem fio gratuita e alta velocidade (Wi-Fi)</li>
+                    <li class="li">Piscina  Aulas de ioga</li>
+                    <li class="li">Aulas de ioga</li>
+                    <li class="li">Café da manha gratuito</li>
+                    <li class="li">Praia</li>
+                    <li class="li">Passeio de barco</li>
+                    <li class="li">Translado de/para o aeroporto</li>
+                    <li class="li">Toalhas de piscina/prai</li>
+                    <li class="li">Piscina externa</li>
+                    <li class="li">Piscina aquecida</li>
+                    <li class="li">Bar/lounge</li>
+                    <li class="li">Restaurante</li>
+                    <li class="li">Café da manhã disponível</li>
+                    <li class="li">Café da manhã no quarto</li>
+                    <li class="li">Drinque gratuito de boas-vindas</li>
+                    <li class="li">Espaço para refeições ao ar livre</li>
+                    <li class="li">Lanchonete</li>
+                    <li class="li">Bar na piscina</li>
+                    <li class="li">Bar no terraço</li>
+                    <li class="li">Salas de reunião</li>
+                    <li class="li">Área externa mobiliada</li>
+                    <li class="li">Recepção 24 horas</li>
+                </ul>
+
+                <p id="pTipoQuarto">tipos de quarto</p>
+                <ul id="ulTipoQuarto">
+                    <li class="li">Vista para o mar</li>
+                    <li class="li"> Quartos para não fumantes</li>
+                </ul>
+            </div>
+            <div id="direita">
+                <div id="contEnd">
+                    <p id="infor">Contatos e Endereço</p>
+                   <div id="espaco">
+                        <p id="enerecoInicio">@ViewBag.endereco</p>
+                        <div id="dTelefone">
+                            <img src="~/img/Telefone 1.png" id="imgTelefone" />
+                            <p id="numeroTelefone">@ViewBag.telefone</p>
+                        </div>
+                        <div id="dInsta">
+                            <a asp-action="RedirectToCatalina" asp-controller="Home">
+                                <img src="~/img/insta.png" id="imgTelefone" />
+                            </a>
+                            <a asp-action="RedirectToCatalina" asp-controller="Home">
+                                <p id="pContaInsta">@ViewBag.contaInstaCata</p>
+                            </a>
+                        </div>
+                   </div>
+                </div>
+                <div id="comodidades">
+                    <p id="pTipoQuarto">Comodidades do Quarto</p>
+                    <ul id="ulComodidades">
+                        <li class="li">Purificador de ar</li>
+                        <li class="li">Roupões</li>
+                        <li class="li">Ar-condicionado</li>
+                        <li class="li">Serviço de limpeza</li>
+                        <li class="li">Cafeteria/chaleira</li>
+                        <li class="li"> TV a cabo/por satélite</li>
+                        <li class="li">Sofá-cama</li>
+                        <li class="li">Bidê</li>
+                        <li class="li">cofre</li>
+                        <li class="li">Armário/closet</li>
+                        <li class="li">TV de tela plana</li>
+                        <li class="li">Chuveiro acessível</li>
+                        <li class="li">Banheira/chuveiro</li>
+                        <li class="li">Artigos de higiene pessoal de cortesia</li>
+                        <li class="li">Secador de cabelo</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer id="footerHotel">
+        <div class="footer-links">
+            <a href="#">Política de privacidade</a>
+            <a href="#">Termos de Uso</a>
+            <a href="#">Ajuda</a>
+        </div>
+        <div class="footer-icons">
+            <a href="#" target="_blank"><img src="~/img/insta.png" alt="Instagram"></a>
+            <a href="#"><img src="~/img/face.png" alt="Facebook"></a>
+            <a href="#"><img src="~/img/x.png" alt="Email"></a>
+        </div>
+        <div class="footer-copyright">
+            &copy; Copyright
+        </div>
+    </footer>
+
+
+</body>
+</html>

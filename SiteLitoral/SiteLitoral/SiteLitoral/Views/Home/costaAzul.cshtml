@@ -1,0 +1,123 @@
+﻿@model SiteLitoral.Models.Restaurante
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/estilo.css">
+    <title>Site Litoral</title>
+</head>
+<body>
+    <nav class="navi">
+        <p class="Nome">Guia Litoral SP </p>
+        <div class="imagens">
+            <img src="/img/Conta.png" class="Conta">
+            <img src="~/img/Menu.png" class="Menu">
+        </div>
+    </nav>
+    <div id="container">
+        <p id="tituloHotel">@ViewBag.nomeCosta</p>
+        <div id="endTele">
+            <p id="enerecoInicio">@ViewBag.enderecoCosta</p>
+            <div id="dTelefoneR">
+                <img src="~/img/Telefone 1.png" id="imgTelefone" />
+                <p id="numeroTelefone">@ViewBag.telefoneCosta</p>
+            </div>
+        </div>
+        <div id="fotosRestaurante">
+            <img src="~/img/CostaTabuaFrios.png" id="imgtabua" />
+            <div id="ftDireitaRestaurante">
+                <div id="fotosCima">
+                    <img src="~/img/COSTAZUL.jpg" class="imgsCiima"/>
+                    <img src="~/img/CostaStrogonof.png" class="imgsCiima" />
+                </div>
+                <img src="~/img/CostaOstra.png" id="imgOstra" />
+            </div>
+        </div>
+
+        <div id="conteudo">
+            <div id="esquerda">
+                <p id="infor">Informações</p>
+                <div id="espaco">
+                    <p class="maiusculos">cozinhas</p>
+                    <p class="subTitulo">Peruana, Frutos do Mar</p>
+
+                    <p class="maiusculos">refeições</p>
+                    <p class="subTitulo">Almoço e Jantar</p>
+
+                    <p class="maiusculos">horario de funcionamento</p>
+                    <div id="funcionamento">
+                        <div id="dia">
+                            <p class="pFuncionamento">Segunda-Feira</p>
+                            <p class="pFuncionamento">Terça-Feira</p>
+                            <p class="pFuncionamento">Quarta-Feira</p>
+                            <p class="pFuncionamento">Quinta-Feira</p>
+                            <p class="pFuncionamento">Sexta-Feira</p>
+                            <p class="pFuncionamento">Sábado-Feira</p>
+                            <p class="pFuncionamento">Domingo-Feira</p>
+                        </div>
+                        <div id="horario">
+                            <p class="pFuncionamento">Fechado</p>
+                            <p class="pFuncionamento">Fechado</p>
+                            <p class="pFuncionamento">18H - 23H</p>
+                            <p class="pFuncionamento">18H - 23H</p>
+                            <p class="pFuncionamento">12H - 16:30H/ 18H - 23H</p>
+                            <p class="pFuncionamento">12H - 16:30H/ 18H - 23H</p>
+                            <p class="pFuncionamento">12H - 18H</p>
+                        </div>
+                    </div>
+                    <p class="maiusculos">vantagens</p>
+                    <p class="textoLongo" id="textoVantagens">Entrega, Para levar, Reservas, Mesas ao ar livre, Lugares para sentar, Estacionamento na rua, Estacionamento privado grátis, Acesso para cadeirantes, Serve bebida alcoólica, Bar completo, Vinho e cerveja, Aceita American Express, Aceita MasterCard, Aceita Visa, Pagamento digital, Wi-fi gratuito, Aceita Discover, Aceita cartão de crédito, Serviço de mesa, Balcão externo, Permite cães, Familiar, Vales-presente disponíveis</p>
+                </div>
+            </div>
+            <div id="direita">
+                <div id="contEndCosta" >
+                    <p id="infor">Contatos e Endereço</p>
+                    <div id="espaco">
+                        <p id="enerecoInicio">@ViewBag.enderecoCosta</p>
+                        <div id="dTelefone">
+                            <img src="~/img/Telefone 1.png" id="imgTelefone" />
+                            <p id="numeroTelefone">@ViewBag.telefoneCosta</p>
+                        </div>
+                        <div id="dInsta">
+                            <a asp-action="RedirectToCostaAzul" asp-controller="Home">
+                                <img src="~/img/insta.png" id="imgTelefone" />
+                            </a>
+                            <a asp-action="RedirectToCostaAzul" asp-controller="Home">
+                                <p id="pContaInsta">@ViewBag.contaInsta</p>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div id="opiniao">
+                    <p id="infor">Opinião Bandeira Verde</p>
+                    <div id="espaco">
+                        <p class="textoLongo" >O chef do restaurante é o peruano Carlos Moscol Paredes, que já ganhou diversos prêmios de gastronomia com seu restaurante em Lima, no Peru. O estabelecimento também possui uma variedade grande no cardápio, mostrando parte da gastronomia peruana. Paredes fala da proposta de seu restaurante: “A proposta da casa é baseada nos pratos clássicos de peixes e mariscos do Peru, que ao longo dos anos criaram uma gastronomia fusion. São pratos que não se encontram nesta cidade, feitos à base do frescor, do momento, com amor e com o aconchego de casa”.</p>
+                    </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+    <footer id="footerHotel">
+        <div class="footer-links">
+            <a href="#">Política de privacidade</a>
+            <a href="#">Termos de Uso</a>
+            <a href="#">Ajuda</a>
+        </div>
+        <div class="footer-icons">
+            <a href="#" target="_blank"><img src="~/img/insta.png" alt="Instagram"></a>
+            <a href="#"><img src="~/img/face.png" alt="Facebook"></a>
+            <a href="#"><img src="~/img/x.png" alt="Email"></a>
+        </div>
+        <div class="footer-copyright">
+            &copy; Copyright
+        </div>
+    </footer>
+
+
+</body>
+</html>

@@ -1,0 +1,150 @@
+C:\Users\Eduardo\Desktop\SiteLitoral\SiteLitoral\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Eduardo\Desktop\SiteLitoral\SiteLitoral\bin\Debug\net8.0\appsettings.json
+C:\Users\Eduardo\Desktop\SiteLitoral\SiteLitoral\bin\Debug\net8.0\SiteLitoral.staticwebassets.runtime.json
+C:\Users\Eduardo\Desktop\SiteLitoral\SiteLitoral\bin\Debug\net8.0\SiteLitoral.exe
+C:\Users\Eduardo\Desktop\SiteLitoral\SiteLitoral\bin\Debug\net8.0\SiteLitoral.deps.json
+C:\Users\Eduardo\Desktop\SiteLitoral\SiteLitoral\bin\Debug\net8.0\SiteLitoral.runtimeconfig.json
+C:\Users\Eduardo\Desktop\SiteLitoral\SiteLitoral\bin\Debug\net8.0\SiteLitoral.dll
+C:\Users\Eduardo\Desktop\SiteLitoral\SiteLitoral\bin\Debug\net8.0\SiteLitoral.pdb
+C:\Users\Eduardo\Desktop\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Desktop\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Desktop\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.AssemblyInfo.cs
+C:\Users\Eduardo\Desktop\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eduardo\Desktop\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.RazorAssemblyInfo.cache
+C:\Users\Eduardo\Desktop\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.RazorAssemblyInfo.cs
+C:\Users\Eduardo\Desktop\SiteLitoral\SiteLitoral\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Eduardo\Desktop\SiteLitoral\SiteLitoral\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Eduardo\Desktop\SiteLitoral\SiteLitoral\obj\Debug\net8.0\staticwebassets\msbuild.SiteLitoral.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Eduardo\Desktop\SiteLitoral\SiteLitoral\obj\Debug\net8.0\staticwebassets\msbuild.build.SiteLitoral.props
+C:\Users\Eduardo\Desktop\SiteLitoral\SiteLitoral\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SiteLitoral.props
+C:\Users\Eduardo\Desktop\SiteLitoral\SiteLitoral\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SiteLitoral.props
+C:\Users\Eduardo\Desktop\SiteLitoral\SiteLitoral\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Eduardo\Desktop\SiteLitoral\SiteLitoral\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Eduardo\Desktop\SiteLitoral\SiteLitoral\obj\Debug\net8.0\scopedcss\bundle\SiteLitoral.styles.css
+C:\Users\Eduardo\Desktop\SiteLitoral\SiteLitoral\obj\Debug\net8.0\scopedcss\projectbundle\SiteLitoral.bundle.scp.css
+C:\Users\Eduardo\Desktop\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.dll
+C:\Users\Eduardo\Desktop\SiteLitoral\SiteLitoral\obj\Debug\net8.0\refint\SiteLitoral.dll
+C:\Users\Eduardo\Desktop\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.pdb
+C:\Users\Eduardo\Desktop\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.genruntimeconfig.cache
+C:\Users\Eduardo\Desktop\SiteLitoral\SiteLitoral\obj\Debug\net8.0\ref\SiteLitoral.dll
+C:\Users\2ds\Desktop\SiteLitoral\SiteLitoral\SiteLitoral\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\2ds\Desktop\SiteLitoral\SiteLitoral\SiteLitoral\bin\Debug\net8.0\appsettings.json
+C:\Users\2ds\Desktop\SiteLitoral\SiteLitoral\SiteLitoral\bin\Debug\net8.0\SiteLitoral.staticwebassets.runtime.json
+C:\Users\2ds\Desktop\SiteLitoral\SiteLitoral\SiteLitoral\bin\Debug\net8.0\SiteLitoral.exe
+C:\Users\2ds\Desktop\SiteLitoral\SiteLitoral\SiteLitoral\bin\Debug\net8.0\SiteLitoral.deps.json
+C:\Users\2ds\Desktop\SiteLitoral\SiteLitoral\SiteLitoral\bin\Debug\net8.0\SiteLitoral.runtimeconfig.json
+C:\Users\2ds\Desktop\SiteLitoral\SiteLitoral\SiteLitoral\bin\Debug\net8.0\SiteLitoral.dll
+C:\Users\2ds\Desktop\SiteLitoral\SiteLitoral\SiteLitoral\bin\Debug\net8.0\SiteLitoral.pdb
+C:\Users\2ds\Desktop\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2ds\Desktop\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.AssemblyInfoInputs.cache
+C:\Users\2ds\Desktop\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.AssemblyInfo.cs
+C:\Users\2ds\Desktop\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.csproj.CoreCompileInputs.cache
+C:\Users\2ds\Desktop\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2ds\Desktop\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.RazorAssemblyInfo.cache
+C:\Users\2ds\Desktop\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.RazorAssemblyInfo.cs
+C:\Users\2ds\Desktop\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\2ds\Desktop\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\2ds\Desktop\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\staticwebassets\msbuild.SiteLitoral.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\2ds\Desktop\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\staticwebassets\msbuild.build.SiteLitoral.props
+C:\Users\2ds\Desktop\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SiteLitoral.props
+C:\Users\2ds\Desktop\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SiteLitoral.props
+C:\Users\2ds\Desktop\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\2ds\Desktop\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\2ds\Desktop\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\scopedcss\bundle\SiteLitoral.styles.css
+C:\Users\2ds\Desktop\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\scopedcss\projectbundle\SiteLitoral.bundle.scp.css
+C:\Users\2ds\Desktop\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.dll
+C:\Users\2ds\Desktop\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\refint\SiteLitoral.dll
+C:\Users\2ds\Desktop\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.pdb
+C:\Users\2ds\Desktop\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.genruntimeconfig.cache
+C:\Users\2ds\Desktop\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\ref\SiteLitoral.dll
+C:\Users\Eduardo\Desktop\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Eduardo\Desktop\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\bin\Debug\net8.0\appsettings.json
+C:\Users\Eduardo\Desktop\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\bin\Debug\net8.0\SiteLitoral.staticwebassets.runtime.json
+C:\Users\Eduardo\Desktop\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\bin\Debug\net8.0\SiteLitoral.exe
+C:\Users\Eduardo\Desktop\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\bin\Debug\net8.0\SiteLitoral.deps.json
+C:\Users\Eduardo\Desktop\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\bin\Debug\net8.0\SiteLitoral.runtimeconfig.json
+C:\Users\Eduardo\Desktop\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\bin\Debug\net8.0\SiteLitoral.dll
+C:\Users\Eduardo\Desktop\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\bin\Debug\net8.0\SiteLitoral.pdb
+C:\Users\Eduardo\Desktop\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Desktop\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Desktop\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.AssemblyInfo.cs
+C:\Users\Eduardo\Desktop\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eduardo\Desktop\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.RazorAssemblyInfo.cache
+C:\Users\Eduardo\Desktop\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.RazorAssemblyInfo.cs
+C:\Users\Eduardo\Desktop\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Eduardo\Desktop\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Eduardo\Desktop\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\staticwebassets\msbuild.SiteLitoral.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Eduardo\Desktop\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\staticwebassets\msbuild.build.SiteLitoral.props
+C:\Users\Eduardo\Desktop\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SiteLitoral.props
+C:\Users\Eduardo\Desktop\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SiteLitoral.props
+C:\Users\Eduardo\Desktop\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Eduardo\Desktop\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Eduardo\Desktop\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\scopedcss\bundle\SiteLitoral.styles.css
+C:\Users\Eduardo\Desktop\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\scopedcss\projectbundle\SiteLitoral.bundle.scp.css
+C:\Users\Eduardo\Desktop\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.dll
+C:\Users\Eduardo\Desktop\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\refint\SiteLitoral.dll
+C:\Users\Eduardo\Desktop\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.pdb
+C:\Users\Eduardo\Desktop\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.genruntimeconfig.cache
+C:\Users\Eduardo\Desktop\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\ref\SiteLitoral.dll
+C:\Users\2ds\Downloads\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\2ds\Downloads\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\bin\Debug\net8.0\appsettings.json
+C:\Users\2ds\Downloads\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\bin\Debug\net8.0\SiteLitoral.staticwebassets.runtime.json
+C:\Users\2ds\Downloads\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\bin\Debug\net8.0\SiteLitoral.exe
+C:\Users\2ds\Downloads\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\bin\Debug\net8.0\SiteLitoral.deps.json
+C:\Users\2ds\Downloads\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\bin\Debug\net8.0\SiteLitoral.runtimeconfig.json
+C:\Users\2ds\Downloads\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\bin\Debug\net8.0\SiteLitoral.dll
+C:\Users\2ds\Downloads\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\bin\Debug\net8.0\SiteLitoral.pdb
+C:\Users\2ds\Downloads\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2ds\Downloads\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.AssemblyInfoInputs.cache
+C:\Users\2ds\Downloads\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.AssemblyInfo.cs
+C:\Users\2ds\Downloads\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.csproj.CoreCompileInputs.cache
+C:\Users\2ds\Downloads\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2ds\Downloads\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.RazorAssemblyInfo.cache
+C:\Users\2ds\Downloads\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.RazorAssemblyInfo.cs
+C:\Users\2ds\Downloads\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\2ds\Downloads\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\2ds\Downloads\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\staticwebassets\msbuild.SiteLitoral.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\2ds\Downloads\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\staticwebassets\msbuild.build.SiteLitoral.props
+C:\Users\2ds\Downloads\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SiteLitoral.props
+C:\Users\2ds\Downloads\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SiteLitoral.props
+C:\Users\2ds\Downloads\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\2ds\Downloads\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\2ds\Downloads\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\scopedcss\bundle\SiteLitoral.styles.css
+C:\Users\2ds\Downloads\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\scopedcss\projectbundle\SiteLitoral.bundle.scp.css
+C:\Users\2ds\Downloads\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.dll
+C:\Users\2ds\Downloads\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\refint\SiteLitoral.dll
+C:\Users\2ds\Downloads\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.pdb
+C:\Users\2ds\Downloads\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.genruntimeconfig.cache
+C:\Users\2ds\Downloads\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\ref\SiteLitoral.dll
+C:\Users\55119\OneDrive\Atividades ETEC\DS\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\55119\OneDrive\Atividades ETEC\DS\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\bin\Debug\net8.0\appsettings.json
+C:\Users\55119\OneDrive\Atividades ETEC\DS\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\bin\Debug\net8.0\SiteLitoral.staticwebassets.runtime.json
+C:\Users\55119\OneDrive\Atividades ETEC\DS\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\bin\Debug\net8.0\SiteLitoral.exe
+C:\Users\55119\OneDrive\Atividades ETEC\DS\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\bin\Debug\net8.0\SiteLitoral.deps.json
+C:\Users\55119\OneDrive\Atividades ETEC\DS\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\bin\Debug\net8.0\SiteLitoral.runtimeconfig.json
+C:\Users\55119\OneDrive\Atividades ETEC\DS\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\bin\Debug\net8.0\SiteLitoral.dll
+C:\Users\55119\OneDrive\Atividades ETEC\DS\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\bin\Debug\net8.0\SiteLitoral.pdb
+C:\Users\55119\OneDrive\Atividades ETEC\DS\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\OneDrive\Atividades ETEC\DS\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.AssemblyInfoInputs.cache
+C:\Users\55119\OneDrive\Atividades ETEC\DS\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.AssemblyInfo.cs
+C:\Users\55119\OneDrive\Atividades ETEC\DS\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.csproj.CoreCompileInputs.cache
+C:\Users\55119\OneDrive\Atividades ETEC\DS\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\55119\OneDrive\Atividades ETEC\DS\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.RazorAssemblyInfo.cache
+C:\Users\55119\OneDrive\Atividades ETEC\DS\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.RazorAssemblyInfo.cs
+C:\Users\55119\OneDrive\Atividades ETEC\DS\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\55119\OneDrive\Atividades ETEC\DS\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\55119\OneDrive\Atividades ETEC\DS\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\staticwebassets\msbuild.SiteLitoral.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\55119\OneDrive\Atividades ETEC\DS\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\staticwebassets\msbuild.build.SiteLitoral.props
+C:\Users\55119\OneDrive\Atividades ETEC\DS\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SiteLitoral.props
+C:\Users\55119\OneDrive\Atividades ETEC\DS\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SiteLitoral.props
+C:\Users\55119\OneDrive\Atividades ETEC\DS\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\55119\OneDrive\Atividades ETEC\DS\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\55119\OneDrive\Atividades ETEC\DS\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\scopedcss\bundle\SiteLitoral.styles.css
+C:\Users\55119\OneDrive\Atividades ETEC\DS\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\scopedcss\projectbundle\SiteLitoral.bundle.scp.css
+C:\Users\55119\OneDrive\Atividades ETEC\DS\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.dll
+C:\Users\55119\OneDrive\Atividades ETEC\DS\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\refint\SiteLitoral.dll
+C:\Users\55119\OneDrive\Atividades ETEC\DS\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.pdb
+C:\Users\55119\OneDrive\Atividades ETEC\DS\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\SiteLitoral.genruntimeconfig.cache
+C:\Users\55119\OneDrive\Atividades ETEC\DS\SiteLitoral 1\SiteLitoral\SiteLitoral\SiteLitoral\obj\Debug\net8.0\ref\SiteLitoral.dll

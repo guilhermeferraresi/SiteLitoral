@@ -1,0 +1,119 @@
+﻿@model SiteLitoral.Models.Geral
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/estilo.css">
+    <title>Site Litoral</title>
+</head>
+<body>
+    <nav class="navi">
+        <p class="Nome">Guia Litoral SP </p>
+        <div class="imagens">
+            <img src="/img/Conta.png" class="Conta">
+            <img src="~/img/Menu.png" class="Menu">
+        </div>
+    </nav>
+    <input type="text" placeholder="Digite o que está procurando" id="pesquisaRestaurantes">
+    <div id="classificacoes">
+        <img src="~/img/iconeMelhor.png" id="icone"/>
+        <div id="tudo">
+            <p id="pTudo">Mostrar tudo</p>
+        </div>
+        <div id="preco">
+            <img src="~/img/cifraoMelhor.png" id="imgCifrao"/>
+            <p id="pPreco">Preco</p>
+        </div>
+    </div>
+    <div id="listaUm">
+        <div class="cardRestaurantese">
+            <img src="~/img/Ben's Bar &  Comidaria.jpg" width="1000px" height="1000px" alt="Ben's Bar & Comidaria - Ilhabela">
+            <p class="nome-hotel">@ViewBag.nomeBen</p>
+            <p class="nome-cidade">@ViewBag.cidadeBen</p>
+        </div>
+        <div class="cardRestaurantes">
+            <img src="~/img/Alcide's Restaurante.jpg" class="d-block w-100" alt="Alcide's Restaurante - Guarujá">
+            <p class="nome-hotel">@ViewBag.nomeA</p>
+            <p class="nome-cidade">@ViewBag.cidadeA</p>
+        </div>
+        <div class="cardRestaurantes">
+            <a asp-action="CostaAzul" asp-controller="Home">
+                <img src="~/img/COSTAZUL.jpg" class="d-block w-100" alt="Costazul Seafood - Santos">
+            </a>
+            <p class="nome-hotel">@ViewBag.nomeC</p>
+            <p class="nome-cidade">@ViewBag.cidadeC</p>
+        </div>
+        <div class="cardRestaurantes">
+            <img src="~/img/Jirêh Bar e Cozinha Prática.jpg" class="d-block w-100" alt="Jirêh Bar e Cozinha Prática - São Pedro">
+            <p class="nome-hotel">@ViewBag.nomeJ</p>
+            <p class="nome-cidade">@ViewBag.cidadeJ</p>
+        </div>
+    </div>
+    <div id="listaDois">
+        <div class="cardRestauranteseUm">
+            <img src="~/img/AlmadaBarMelhor.png" width="1000px" height="1000px" alt="Catalina Hotel - Ubatuba">
+            <p class="nome-hotel">@ViewBag.nomeAl</p>
+            <p class="nome-cidade">@ViewBag.cidadeAl</p>
+        </div>
+        <div class="cardRestaurantesUm">
+            <img src="~/img/QuintalVilaMelhor.png" width="1000px" height="1000px" alt="DPNY Beach Hotel & SPA Ilhabela">
+            <p class="nome-hotel">@ViewBag.nomeQ</p>
+            <p class="nome-cidade">@ViewBag.cidadeQ</p>
+        </div>
+        <div class="cardRestaurantesUm">
+            <img src="~/img/PortofinoMelhor.png" width="1000px" height="1000px" alt="Maui Maresias São Sebastião">
+            <p class="nome-hotel">@ViewBag.nomePo</p>
+            <p class="nome-cidade">@ViewBag.cidadePo</p>
+        </div>
+        <div class="cardRestaurantesUm">
+            <img src="~/img/RestauranteCapitanoMelhor.png" width="1000px" height="1000px" alt="Wyndham Ilhabela Casa di Sirena Ilhabela">
+            <p class="nome-hotel">@ViewBag.nomeCap</p>
+            <p class="nome-cidade">@ViewBag.cidadeCap</p>
+        </div>
+    </div>
+    <div id="listaTres">
+        <div class="cardRestauranteseTres">
+            <img src="~/img/LesEpicesMelhor.png" width="1000px" height="1000px" alt="Ben's Bar & Comidaria - Ilhabela">
+            <p class="nome-hotel">@ViewBag.nomeLes</p>
+            <p class="nome-cidade">@ViewBag.cidadeLes</p>
+        </div>
+        <div class="cardRestaurantesTres">
+            <img src="~/img/Alcide's Restaurante.jpg" class="d-block w-100" alt="Alcide's Restaurante - Guarujá">
+            <p class="nome-hotel">@ViewBag.nomeA</p>
+            <p class="nome-cidade">@ViewBag.cidadeA</p>
+        </div>
+        <div class="cardRestaurantesTres">
+            <img src="~/img/COSTAZUL.jpg" class="d-block w-100" alt="Costazul Seafood - Santos">
+            <p class="nome-hotel">@ViewBag.nomeC</p>
+            <p class="nome-cidade">@ViewBag.cidadeC</p>
+        </div>
+        <div class="cardRestaurantesTres">
+            <img src="~/img/Jirêh Bar e Cozinha Prática.jpg" class="d-block w-100" alt="Jirêh Bar e Cozinha Prática - São Pedro">
+            <p class="nome-hotel">@ViewBag.nomeJ</p>
+            <p class="nome-cidade">@ViewBag.cidadeJ</p>
+        </div>
+    </div>
+    <footer id="footerRestaurantes">
+        <div class="footer-links">
+            <a href="#">Política de privacidade</a>
+            <a href="#">Termos de Uso</a>
+            <a href="#">Ajuda</a>
+        </div>
+        <div class="footer-icons">
+            <a href="#"><img src="~/img/instagram.png" alt="Instagram"></a>
+            <a href="#"><img src="~/img/facebook.png" alt="Facebook"></a>
+            <a href="#"><img src="~/img/email.png" alt="Email"></a>
+        </div>
+        <div class="footer-copyright">
+            &copy; Copyright
+        </div>
+    </footer>
+
+
+</body>
+</html>
